@@ -27,9 +27,9 @@ st.set_page_config(
 
 # API Keys
 # API Keys for Injury Analysis
-GEMINI_API_KEY = "AIzaSyBVL73UIy3dhEyP3OC4gCgMOQFgX2v6G8E"
-GOOGLE_SEARCH_API_KEY = "AIzaSyBkSmH7XzLcxi0HwGiYRoa6YW7poOfa5Fc"
-GOOGLE_CX = "95422de319fca48a0"
+GEMINI_API_KEY = "your API key"
+GOOGLE_SEARCH_API_KEY = "your API key"
+GOOGLE_CX = "your API key"
 
 
 # Configure Gemini
