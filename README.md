@@ -1,11 +1,8 @@
-# Telemedicine
-
-This Project is Done during the Internship under the Infosys Springboard 
-
 
 # MediScan - Medical Analysis Suite 🏥
 
 MediScan is a comprehensive medical analysis web application built with Streamlit that offers medical text analysis, injury analysis, and appointment booking capabilities. The application leverages advanced AI models and APIs to provide accurate medical assessments and recommendations.
+This Project is Done during the Internship under the Infosys Springboard 
 
 ## Features 🌟
 
